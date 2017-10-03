@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "a83ea4f0-d0ff-4a45-ad11-d34d07d9fc84",
+            "Value": {
+                "id": "818738f2-2f3e-44f7-bbc5-53a2c7aea620",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "22ca859d-ed07-4683-92be-3c2336d91312",
@@ -148,14 +156,6 @@
                 "id": "454844c4-d147-4d22-91bb-ba44d8aca3c5",
                 "resourcePath": "views\\b1a87732-1fda-4751-a7c7-4987b8bee701.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b907c17f-b8e7-4023-a90f-bf70cebaef35",
-            "Value": {
-                "id": "2e653054-da87-4c6d-b3be-622150ed8d69",
-                "resourcePath": "sprites\\spr_meme\\spr_meme.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
