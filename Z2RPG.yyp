@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "b907c17f-b8e7-4023-a90f-bf70cebaef35",
+            "Value": {
+                "id": "2e653054-da87-4c6d-b3be-622150ed8d69",
+                "resourcePath": "sprites\\spr_meme\\spr_meme.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8ff47839-35c9-4edc-a3d8-b1d93e35586b",
